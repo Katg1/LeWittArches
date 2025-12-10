@@ -1,0 +1,12 @@
+body {
+  background: #342932;
+  color: white;
+  font-family: sans-serif;
+}
+
+canvas {
+  background: white;
+  border: 1px dashed black;
+  max-width: 85vw;
+  max-height: 85vh;
+}
