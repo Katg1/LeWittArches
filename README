@@ -1,0 +1,15 @@
+This digital artwork is inspired by Sol LeWitt’s wall drawings, particularly
+the concentric color-band installations like Wall Drawing 579.
+
+The piece is constructed using a procedural rule system:
+1. Draw a large arch (rounded rectangle with a semicircular top).
+2. Draw a slightly smaller arch inside it.
+3. Repeat, each time reducing width and height.
+
+This follows LeWitt’s conceptual art principle:
+“The idea becomes a machine that makes the art.”
+
+The code recreates the visual logic of the installation:
+- The outer arch touches the top of the wall.
+- Each inner arch is centered, narrower, and shorter.
+- Colors are flat and uniform, mimicking painted wall surfaces.
